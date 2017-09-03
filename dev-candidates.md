@@ -16,7 +16,7 @@ What's Not Allowed
 
 - It should go without saying, but you cannot simply copy/paste a solution that you found on the internet.  This should be original code written by you.
 - Do not use a hosting provider or submit a link to a hosted version of your app.  If the project cannot be loaded from a local file it is not going to be considered a functional solution.
-- No external dependencies should be required for running the app locally.  A stock browser is all that you can assume the end user has access to.
+- Other than the api, no external dependencies should be required for running the app locally.  A stock browser is all that you can assume the end user has access to.
 
 Prerequisites
 -------------
