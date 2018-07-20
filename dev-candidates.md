@@ -1,4 +1,4 @@
-# Iggbo Developer Candidate Code Project
+# Workpath Developer Candidate Code Project
 
 In order to help us get a better sense of your approach to coding and ability as a developer, we have designed a small code exercise.  The goal of the exercise is to build a simple browser-based user interface for the publicly available NY Times "Top News" API.  Users should be able to do keyword searches for articles, and to select the section of the newspaper to display articles from.  
 
