@@ -22,11 +22,11 @@ Prerequisites
 
 You will need to request your own API key for access to the Top News service:
 
-https://developer.nytimes.com/signup
+https://developer.nytimes.com/accounts/create
 
 Documentation for the service is located here:
 
-https://developer.nytimes.com/top_stories_v2.json
+https://developer.nytimes.com/docs/top-stories-product/1/overview
 
 
 Requirements
